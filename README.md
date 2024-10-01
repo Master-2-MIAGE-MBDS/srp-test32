@@ -16,3 +16,16 @@ L'application doit offrir les fonctionnalités suivantes :
 
 Utilisez le **principe de responsabilité unique (SRP)** pour structurer votre code.
 Le projet fourni contient une implémentation qui laisse à désirer, à vous corriger ce problème !
+
+
+### SRP : 
+
+- **Task.java** : Représente une tâche.
+- **TaskManager.java** : Gère la création et la mise à jour des tâches.
+- **TaskReport.java** : Génère des rapports sur les tâches.
+
+### Members :
+
+- Salah Eddine ABOULKACIM
+- MAROUANE TAKI EDINE
+
